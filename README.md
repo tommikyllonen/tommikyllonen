@@ -5,7 +5,7 @@ I'm a full-stack developer working in **Kempower Inc** at in Durham, NC US, and 
 ## 🛠️ What I Work With
 
 - **Frontend and Backend**: Svelte + TypeScript + Tailwind CSS
-- **DevOps**: Azure DevOps for CI/CD, repositories, and task boards
+- **DevOps**: Azure DevOps for CI/CD and managing repositories.
 - **Integrations**: Epicor ERP, WATS API, and other APIs
 
 ## 🚀 What I Do
